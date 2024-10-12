@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; The Do Zoo</title>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Your new favorite way to get stuff done!</description>
+	<lastBuildDate>Sun, 13 Nov 2022 06:14:20 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/10/cropped-egg1-32x32.png</url>
+	<title>admin &#8211; The Do Zoo</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why Playing The DoZoo Will Make You More Productive:</title>
+		<link>/why-playing-the-dozoo-will-make-you-more-productive/</link>
+					<comments>/why-playing-the-dozoo-will-make-you-more-productive/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 13 Nov 2022 06:14:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=100</guid>
+
+					<description><![CDATA[We all know that sometimes, work can be a drag. But what if there was a way to make work more fun, and even more productive? That&#8217;s where The DoZoo comes in. The DoZoo is a new productivity tool that can help you get more done in less time. By playing The DoZoo, you can [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We all know that sometimes, work can be a drag. But what if there was a way to make work more fun, and even more productive? That&#8217;s where The DoZoo comes in.</p>
+
+
+
+<p>The DoZoo is a new productivity tool that can help you get more done in less time. By playing The DoZoo, you can earn points, unlock new features, and even compete with friends. But The DoZoo is more than just a game. It&#8217;s also a powerful reminder that we can all be more productive if we set our minds to it. So if you&#8217;re looking for a way to boost your productivity, why not give The DoZoo a try?</p>
+
+
+
+<p>The DoZoo is a great tool for anyone who wants to be more productive. Whether you&#8217;re a student, a working professional, or a stay-at-home parent, The DoZoo can help you get more done in less time. So what are you waiting for? Give The DoZoo a try today!</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/why-playing-the-dozoo-will-make-you-more-productive/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>1.0 Launch!</title>
+		<link>/1-0-launch/</link>
+					<comments>/1-0-launch/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 04:48:47 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">/?p=74</guid>
+
+					<description><![CDATA[The game launched today! Hope everyone enjoys it.]]></description>
+										<content:encoded><![CDATA[
+<p>The game launched today! Hope everyone enjoys it.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/1-0-launch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
